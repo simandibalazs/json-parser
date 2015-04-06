@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "SPATIAL_VIEW.fid-54038ee6_13f98ee9f52_4049",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            72970943,
+                            -469048595
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "GEOM",
+            "properties": {
+                "ID": "123",
+                "GIS_CODE": "AP",
+                "NAME": "Andhra Pradesh"
+            }
+        }
+    ],
+    "crs": {
+        "type": "EPSG",
+        "properties": {
+            "code": "42106"
+        }
+    }
+}
