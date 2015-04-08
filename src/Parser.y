@@ -134,7 +134,7 @@ int main(void) {
   if(yyparse() == 0){
     printf("Input accepted!\n");
   }else{
-    printf("Input rejected!\n");
+    printf("Input was not accepted!\n");
   }
   return 0;
 }
